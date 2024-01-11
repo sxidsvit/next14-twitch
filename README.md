@@ -3,6 +3,8 @@
 
 ###  Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
 
+[Visit site](https://next14-twitch-sxidsvit.vercel.app/)
+
 
 - Streaming using RTMP / WHIP protocols 
 - Generating ingress
@@ -41,7 +43,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/sxidsvit/next14-twitch-clone.git
+git clone https://github.com/sxidsvit/next14-twitch.git
 ```
 
 ### Install packages
