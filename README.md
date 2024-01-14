@@ -5,6 +5,8 @@
 
 [Visit site](https://next14-twitch-sxidsvit.vercel.app/)
 
+![](demo.gif)
+
 
 - Streaming using RTMP / WHIP protocols 
 - Generating ingress
@@ -100,6 +102,3 @@ npm run dev
 [linkedin]: https://www.linkedin.com/in/sergiy-antonyuk/
 
 ##### I can't express how much I have learned from [you](https://www.youtube.com/@codewithantonio) ! <br> Thanks for the hard and smart work.
-
-
-![](demo.gif)
