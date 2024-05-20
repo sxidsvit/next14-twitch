@@ -1,12 +1,10 @@
+<p><a target="_blank" href="https://app.eraser.io/workspace/TteWyX6B0LzpAFWzTULR" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
+
 # Fullstack Twitch Clone
+### Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
+[﻿Visit site](https://next14-twitch-sxidsvit.vercel.app/) 
 
-
-###  Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
-
-[Visit site](https://next14-twitch-sxidsvit.vercel.app/)
-
-![](demo.gif)
-
+![](demo.gif "")
 
 - Streaming using RTMP / WHIP protocols 
 - Generating ingress
@@ -37,26 +35,18 @@
 - Grouped routes & layouts 
 - MySQL
 - Deployment
-
 ### Prerequisites
-
 **Node version 18.17 or later**
 
 ### Cloning the repository
-
 ```shell
 git clone https://github.com/sxidsvit/next14-twitch.git
 ```
-
 ### Install packages
-
 ```shell
 npm i
 ```
-
 ### Setup .env file
-
-
 ```js
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
@@ -76,29 +66,30 @@ NEXT_PUBLIC_LIVEKIT_WS_URL=
 UPLOADTHING_SECRET=
 UPLOADTHING_APP_ID=
 ```
-
 ### Setup Prisma
-
 Add MySQL Database (I used PlanetScale)
 
 ```shell
 npx prisma generate
 npx prisma db push
 
+
 ```
+![diagram.png](/.eraser/TteWyX6B0LzpAFWzTULR___A59Jwt3RlrhYaehctMKMEbFdV4D2___2_sGIAqY-Vg8Az2rvbq6K.png "diagram.png")
+
+
 
 ### Start the app
-
 ```shell
 npm run dev
-
 ```
-
 ---
 
-##### Contact with me: 
-[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+##### Contact with me:
+##### I can't express how much I have learned from [﻿you](https://www.youtube.com/@codewithantonio) ! 
+ Thanks for the hard and smart work.
 
-[linkedin]: https://www.linkedin.com/in/sergiy-antonyuk/
 
-##### I can't express how much I have learned from [you](https://www.youtube.com/@codewithantonio) ! <br> Thanks for the hard and smart work.
+
+
+<!--- Eraser file: https://app.eraser.io/workspace/TteWyX6B0LzpAFWzTULR --->
